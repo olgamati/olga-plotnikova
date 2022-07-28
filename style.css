@@ -68,7 +68,9 @@ p {
   text-transform: capitalize;
   font-family: var(--default-font-family);
 }
-
+.active {
+  color: var(--primary-color) !important;
+}
 .contact-link {
   background: var(--primary-color);
   box-shadow: var(--box-shadow);
@@ -152,4 +154,7 @@ p {
 .content p {
   text-align: center;
   background: none;
+}
+.logo {
+  max-width: 70px;
 }
