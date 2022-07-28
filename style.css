@@ -122,3 +122,20 @@ p {
   margin-bottom: 10px;
   margin-top: 10px;
 }
+
+.about-section {
+  padding: 50px;
+}
+.about-section h1 {
+  font-size: 50px;
+}
+
+.about-paragraphs {
+  text-align: left;
+}
+.about-section-conent {
+  margin: 30px;
+}
+.about-avatar {
+  margin: 30px;
+}
