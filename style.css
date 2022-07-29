@@ -1,5 +1,5 @@
 :root {
-  --primary-color: #6c63ff;
+  --primary-color: #9910f4;
   --secondary-color: #f5f2fe;
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
   --heading-font-family: "Playfair Display", serif;
@@ -125,7 +125,7 @@ p {
   margin-top: 10px;
 }
 .about-section {
-  padding: 20px;
+  padding: 10px;
 }
 .about-section h1 {
   font-size: 50px;
@@ -135,7 +135,7 @@ p {
   text-align: left;
 }
 .about-section-conent {
-  margin: 30px;
+  margin: 20px;
 }
 .about-avatar {
   margin: 30px;
@@ -156,5 +156,5 @@ p {
   background: none;
 }
 .logo {
-  max-width: 70px;
+  max-width: 90px;
 }
