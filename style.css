@@ -71,6 +71,10 @@ footer .social-links a:hover {
   background-color: var(--primary-color);
 }
 
+footer p {
+  font-size: 10px;
+  background: none;
+}
 .hero {
   padding-top: 50px;
 }
