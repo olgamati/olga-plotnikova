@@ -159,6 +159,7 @@ footer .social-links a:hover {
 
 .about-paragraphs {
   text-align: left;
+  margin-bottom: 0px;
 }
 .about-section-conent {
   margin: 20px;
@@ -183,4 +184,23 @@ footer .social-links a:hover {
 }
 .logo {
   max-width: 90px;
+}
+.ul {
+  display: block;
+}
+.skills-container h3 {
+  font-size: 18px;
+}
+.skillset-content li {
+  text-align: center;
+  padding: 8px;
+}
+.skills-logo {
+  width: 40px;
+}
+.skills {
+  background-color: white;
+  font-size: 10px;
+  text-align: center;
+  padding: 0px !important;
 }
